@@ -3,6 +3,10 @@ Online Course Reservation System that allows users to browse available courses, 
 # Online course reservation system
 This project is created for academic demonstration purpose only
 Software Configuration Management using GitHub.
+
 Student Name: Mudunuri Akshith Satya Surya Varma
+
 Roll Number: 25B81A6605
+
 Class: CSM-A
+
